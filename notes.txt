@@ -1,0 +1,17 @@
+**************Netfix Clone****************
+
+-TMDB account
+    jairpss
+    Santana00!
+    jairpartida1@gmail.com
+
+-API Key (v3 auth)
+    e9dddfdd632cca076b4078ba38f93c0d
+
+-Example API Request
+    https://api.themoviedb.org/3/movie/550?api_key=e9dddfdd632cca076b4078ba38f93c0d
+
+-API Read Access Token (v4 auth)
+    eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlOWRkZGZkZDYzMmNjYTA3NmI0MDc4YmEzOGY5M2MwZCIsInN1YiI6I
+    jVmYmM5NTg1MDcxNjUwMDAzZjg5NmE4ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pHqEFbdiPK_
+    wbT8DhbEukOFQ_1_kDUI_j0gHQzg_Kjc
