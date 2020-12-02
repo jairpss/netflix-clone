@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Nav.css';
+import avatar from './avatar.png';
 
 function Nav() {
 
@@ -23,9 +24,16 @@ function Nav() {
                 src='https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg'
                 alt='Netflix Logo'
             />
+            <ul className='nav__menu'>
+                <li>Home</li>
+                <li>Series</li>
+                <li>Movies</li>
+                <li>New Popular</li>
+                <li>My List</li>
+            </ul>
             <img
                 className='nav__avatar'
-                src='../public/avatar-netflix.png'
+                src={avatar}
                 alt='Netflix Avatar'
             />
         </div>
