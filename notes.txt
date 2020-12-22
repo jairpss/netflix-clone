@@ -1,12 +1,5 @@
 **************Netfix Clone****************
 
--TMDB account
-    jairpss
-    Santana00!
-    jairpartida1@gmail.com
-
--API Key (v3 auth)
-    e9dddfdd632cca076b4078ba38f93c0d
 
 -Example API Request
     https://api.themoviedb.org/3/movie/550?api_key=e9dddfdd632cca076b4078ba38f93c0d
