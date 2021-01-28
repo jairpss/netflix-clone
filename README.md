@@ -1,6 +1,8 @@
 # netflix-clone
 
-********Stack*********
+*Stack*
+
+
 React JS
 CSS (Flexbox)
 TMBD API
