@@ -1,10 +1,13 @@
-# netflix-clone
+# Netflix-clone
 
-*Stack*
+This is an Netflix clone based on Clever Programming tutorial
 
- -React JS
- -CSS (Flexbox)
- -TMBD API
- -Firebase
+_Stack:_
 
-Deploy version -> https://netflix-clone-39b6f.web.app/
+    -React JS
+    -CSS
+    -TMBD API
+    -Firebase Hosting
+    -Flexbox
+
+Deployed version 👉 https://netflix-clone-39b6f.web.app/
